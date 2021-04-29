@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1031467910741",
+    "firebase_url": "https://lastmileprovider.firebaseio.com",
+    "project_id": "lastmileprovider",
+    "storage_bucket": "lastmileprovider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031467910741:android:84a5d72fc9ca53529536dc",
+        "android_client_info": {
+          "package_name": "com.mawjood.providers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031467910741-8ahg2jo48d6at4v1sqoea21a01safgij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mawjood.providers",
+            "certificate_hash": "1e8d7722890fd076943af53564b66e5053bb7a01"
+          }
+        },
+        {
+          "client_id": "1031467910741-g2an9o9r04i9ntcg476if67ldfru7c1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm22uZZyRFFrxmc1drpNc5UEr6HoyR52E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031467910741-g2an9o9r04i9ntcg476if67ldfru7c1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
